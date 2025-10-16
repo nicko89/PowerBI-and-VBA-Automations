@@ -1,12 +1,3 @@
  data-analytics-portfolio
- ├── 📊 PowerBI-Dashboards
- │     ├── Collections_Executive_Report.pbix
- │     ├── Provision_Analysis_Report.pbix
- │     ├── Sales_By_Location.pbix
- │     └── Product_Sales_Performance.pbix
- ├── ⚙️ VBA-Automations
- │     ├── Data_Cleaning_Automation.xlsm
- │     ├── Budget_Generator.xlsm
- │     ├── Bulk_Email_Sender.xlsm
- │     └── Customer_Statement_Report.xlsm
- └── 📄 README.md
+# Power BI Dashboards
+This folder contains interactive Power BI reports and dashboards.
