@@ -15,6 +15,7 @@ Here you’ll find a collection of **Power BI dashboards** and **Excel VBA autom
 | **Provision Analysis Report** | Monthly comparison of billed invoices vs. provisions to evaluate changes in portfolio risk and CECL compliance. |
 | **Sales by Location** | Geographic view of total sales by country and city across LATAM, North America, and Europe with filters by year, semester, and customer type. |
 | **Product Sales Performance** | Analysis of units sold, total sales, and revenue by product for 2020–2021, with KPIs and performance variance visualizations. |
+| **Customer Satisfaction (CSAT) Analysis** | Analysis of customer satisfaction, evaluating each agent’s skills to identify improvement opportunities.(NEW)|
 
 🧩 **Tools used:** Power BI · DAX · Excel · Data Modeling · Financial Analysis  
 🎯 **Goal:** Improve visibility of financial performance and support data-driven decisions.
